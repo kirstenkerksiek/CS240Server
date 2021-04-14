@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="search_label">Search Bar</string>
+    <string name="search_hint">Search by Name or Event Details</string>
+    <string name="default_marker">No Marker Selected</string>
+    <string name="default_marker_details">Select A Marker To View Details</string>
+</resources>
